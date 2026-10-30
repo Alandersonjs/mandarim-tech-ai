@@ -1,0 +1,15 @@
+# Handwriting-required characters (书写字) of the HSK 3.0 standard.
+#
+# Put here the characters you want flagged as "handwriting required"
+# (is_handwriting_required). Lines starting with "#" are ignored; any Han
+# character in the remaining text counts, whatever the separator (space,
+# comma, new line...). A term is flagged only when ALL its characters are
+# listed here. Flags are re-synchronised every time the application starts.
+#
+# This file ships WITHOUT characters on purpose: the sources consulted disagree
+# on the official list (the 2021 standard lists 100 characters to write at
+# level 1, while the revision effective in July 2026 is reported to start
+# handwriting only at level 5), so no unverified list is shipped as official.
+# Copy the list from the official standard you are preparing for, for example:
+#
+# 我 你 他 好 大 小 人 中 国
